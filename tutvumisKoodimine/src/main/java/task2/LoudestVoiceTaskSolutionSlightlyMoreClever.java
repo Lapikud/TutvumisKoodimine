@@ -1,10 +1,6 @@
 package task2;
 
-import com.feature50.util.ArrayUtils;
-import com.feature50.util.StringUtils;
-
 import java.util.Arrays;
-import java.util.List;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
