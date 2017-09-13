@@ -7,6 +7,14 @@
     <groupId>teemeUusiLapikuid</groupId>
     <artifactId>tutvumisKoodimine</artifactId>
     <version>1.0-SNAPSHOT</version>
+
+    <dependencies>
+        <dependency>
+            <groupId>org.spockframework</groupId>
+            <artifactId>spock-maven</artifactId>
+            <version>0.7-groovy-2.0</version>
+        </dependency>
+    </dependencies>
     <build>
         <plugins>
             <plugin>
