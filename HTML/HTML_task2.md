@@ -12,14 +12,14 @@
 
 [Dokumentatsioon](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/)
 
-[h1 ja h2]:(https://developer.mozilla.org/en-US/docs/Web/HTML/Element/h1)
-[p]:(https://developer.mozilla.org/en-US/docs/Web/HTML/Element/p)
-[em]:(https://developer.mozilla.org/en-US/docs/Web/HTML/Element/em)
-[strong]:(https://developer.mozilla.org/en-US/docs/Web/HTML/Element/strong)
-[br]:(https://developer.mozilla.org/en-US/docs/Web/HTML/Element/br)
-[ol]:(https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ol)
-[ul]:(https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul)
-[table]:(https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table)
-[img]:(https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img)
-[a]:(https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a)
-[`<code>`]:(https://developer.mozilla.org/en-US/docs/Web/HTML/Element/code)
+[h1 ja h2]: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/h1
+[p]: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/p
+[em]: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/em
+[strong]: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/strong
+[br]: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/br
+[ol]: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ol
+[ul]: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul
+[table]: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table
+[img]: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img
+[a]: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a
+[`<code>`]: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/code
