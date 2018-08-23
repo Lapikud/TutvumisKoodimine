@@ -1,0 +1,18 @@
+
+
+.division{ /*KLASSI järgi viitamine */
+    font-size: 20px;/*suurus pixlites */
+}
+
+.division span{/*Viitamine KLASSI sees oleva TAGi järgi*/
+    font-size: 300%;/*Suurus protsentides */
+    color: darkblue;
+}
+
+#header{ /*viitamine ID järgi */
+    font-size: 3.6vw; /*suurus ekraani laiustes */
+}
+p{/*Viitamine TAGi järgi */
+    color: violet;
+}
+
