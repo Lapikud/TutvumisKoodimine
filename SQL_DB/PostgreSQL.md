@@ -1,8 +1,8 @@
-#PostgreSQL sissejuhatav ülesanne#
+# PostgreSQL sissejuhatav ülesanne
 
 Ülesanne on kirjutatud sissejuhatusena PostgreSQLi, kuid seda võib kasutada ka muude SQL andmebaasidega.
 
-###Ülesande punktid:###
+### Ülesande punktid:
 
 1.	Installeeri Postgresql https://www.postgresql.org/download/
 2.	Järgi seda videot ning loo näitena andmebaas ja tabel (käsurealt: https://www.youtube.com/watch?v=fD7x8hd9yE4, pgAdmin liidesega: https://www.youtube.com/watch?v=i3UK7QiiH7c )
@@ -28,7 +28,7 @@
 
 
 
-###Viited ja vihjed:###
+### Viited ja vihjed:
 
 4.	https://www.postgresql.org/docs/9.0/static/sql-createdatabase.html
 5.	https://www.postgresql.org/docs/9.0/static/sql-createtable.html
