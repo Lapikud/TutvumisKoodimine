@@ -10,12 +10,19 @@
 4.	Loo andmebaas nimega lapikud_andmebaas
 5.	lapikud_andmebaasi lisa uus tabel nimega liikmed veergudega eesnimi, perekonnanimi ja liitumisaasta
 6.	Nüüd sisesta tabelisse järgmised väärtused:
+    
     Eesnimi	Perekonnanimi	Liitumisaasta
+    
     Mari	  Maasikas	    2015
+    
     Joonas	Juurikas	    2018
+    
     Vilja	  Viljakas	    2005
+    
     Paul	  Paulus	      2008
+    
     Kaur	  Poolus	      2009
+
 
 7.	Lisa kohustusliku väljana boolean aktiivne. Pane aktiivne veeru vaikeväärtuseks true – kui spetsiifiliselt ei öelda, kas liige on aktiivne, on ta aktiivne
 8.	Lisa id väli, mis lisab igale uuele lapikute liikmele automaatselt uue numbrilise väärtuse
